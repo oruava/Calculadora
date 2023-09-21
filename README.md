@@ -8,6 +8,3 @@ Entrega como resultado Infinite
 Responde el valor esperado, el cual es 1
 - ¿Qué pasa si se intenta ingresar una variable de entrada no numérica?
 Arrojaba error, por lo cual agregamos un try catch para asi poder evitar el error.
-Lian:
-![image](https://github.com/oruava/Calculadora/assets/138495779/9e25c4eb-a1bd-411d-8a2e-c27aba99b5cc)
-![image](https://github.com/oruava/Calculadora/assets/138495779/a883e25f-e0d2-48f7-8d01-3d0f5de37833)
